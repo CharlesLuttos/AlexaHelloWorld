@@ -104,4 +104,7 @@ dist
 .tern-port
 
 # Cloudformation templates
-.yaml
+template.yaml
+
+# Payloads
+lambda-payloads.json
